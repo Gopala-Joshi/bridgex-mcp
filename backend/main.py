@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
 app = FastAPI(
-    title="Omni MCP Gateway",
+    title="BridgeX MCP",
     description="Universal Model Context Protocol Server",
     version="0.1"
 )
@@ -9,7 +9,7 @@ app = FastAPI(
 @app.get("/")
 def root():
     return {
-        "project": "Omni MCP Gateway",
+        "project": "BridgeX MCP",
         "status": "running"
     }
 

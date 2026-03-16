@@ -1,8 +1,8 @@
-\# Omni MCP Gateway
+\# Bridge X MCP
 
 
 
-Omni MCP is a Model Context Protocol server that acts as a secure bridge between AI systems and enterprise tools.
+Bridge X MCP is a Model Context Protocol server that acts as a secure bridge between AI systems and enterprise tools.
 
 
 
